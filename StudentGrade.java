@@ -25,7 +25,7 @@ public class StudentGrade {
         } else if (marks >= 40) {
             System.out.println("Grade: C");
         } else {
-            System.out.println("Result: Fail");
+            System.out.println("Result: Fail Try Again");
         }
 
         sc.close();
