@@ -1,1 +1,1 @@
-Code written by Shinde Krushna
+shinde krushna
