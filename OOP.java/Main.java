@@ -1,5 +1,5 @@
 class Student {
-    String name = "Krushna";
+    String name = "Krushna Shinde";
     int age = 20;
 
     void display() {
