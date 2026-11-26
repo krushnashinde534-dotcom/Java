@@ -40,7 +40,7 @@ public class PrimeNumber {
         if (isPrime) {
             System.out.println(num + " is a Prime Number");
         } else {
-            System.out.println(num + " is Not a Prime Number");
+            System.out.println(num + " is Not a Prime Number!");
         }
 
         sc.close();
