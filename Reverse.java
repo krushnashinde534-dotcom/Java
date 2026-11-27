@@ -1,7 +1,7 @@
 public class Reverse {
     public static void main(String[] args) {
 
-        int num = 123456;
+        int num = 9978;
         int reverse = 0;
 
         while (num != 0) {
