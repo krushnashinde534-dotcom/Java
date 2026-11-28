@@ -10,6 +10,6 @@ public class Reverse {
             num = num / 10;
         }
 
-        System.out.println("Reverse = " + reverse);
+        System.out.println("Reverse Number = " + reverse);
     }
 }
